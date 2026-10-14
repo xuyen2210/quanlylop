@@ -2,7 +2,7 @@
 
 Ứng dụng quản lý lớp học toàn diện dành cho Giáo viên chủ nhiệm (GVCN) và Phụ huynh - Học sinh, tích hợp AI Headshot Studio và đồng bộ Google Drive & Google Sheets.
 
-> **Đơn vị công tác:** Trung tâm GDNN - GDTX Thị xã Long Mỹ, Tỉnh Hậu Giang  
+> **Đơn vị công tác:** Trung tâm GDNN - GDTX Hậu Giang  
 > **GVCN phụ trách:** Thầy Nguyễn Văn Xuyên  
 > **Năm học:** 2026 - 2027
 
@@ -16,12 +16,12 @@
 
 2. **Quản Lý Học Sinh & Phụ Huynh:**
    - Danh sách hồ sơ chi tiết theo lớp, phân loại trạng thái, xếp loại học lực & hạnh kiểm.
-   - Hỗ trợ nhập danh sách tự động bằng **File Excel (.xlsx / .csv)** chuẩn tiếng Việt.
+   - Hỗ trợ nhập danh sách tự động bằng **File Excel (.xlsx)** chuẩn tiếng Việt.
    - Tải file mẫu Excel chuẩn để điền và nạp chỉ với 1 cú nhấp.
    - Công cụ dán văn bản phân tích thông minh và thêm nhanh thủ công.
 
 3. **Sổ Điểm Danh Điện Tử (Attendance):**
-   - Điểm danh trực tiếp theo ngày: Có mặt (PRESENT), Vắng (ABSENT), Đi trễ (LATE), Có phép (EXCUSED).
+   - Điểm danh trực tiếp theo ngày: Có mặt (Có mặt), Vắng (Vắng), Đi trễ (Đi muộn), Có phép (Vắng có phép).
    - Xuất dữ liệu Sổ Điểm Danh ra file **Excel (.xlsx)** hoặc lưu trực tiếp lên **Google Sheets**.
 
 4. **Sổ Ghi Nhận Thi Đua & Nề Nếp (Emulation & Behaviors):**
